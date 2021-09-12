@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvillarreal7&label=Profile%20views&color=0e75b6&style=flat" alt="jvillarreal7" /> </p>
 
-- 🌱 I’m currently learning **DevOps (config management), emulation, containers and clusters**
+- 🌱 I’m currently learning **DevOps (config management, pipelines), emulation, game engines, containers and clusters**
 
 - 💬 Ask me about **python, django, c++**
 
